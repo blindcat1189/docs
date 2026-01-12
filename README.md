@@ -44,6 +44,11 @@ AI, ML, and LLM knowledge
 Learning resources and communities
 - [Learning Resources](resources/learning-resources.md)
 
+### [Projects](projects/)
+Project-specific documentation (architecture, setup, ADRs)
+- `chowbus/` - Company projects
+- `personal/` - Personal projects
+
 ---
 
 ## Structure

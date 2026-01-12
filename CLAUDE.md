@@ -24,7 +24,12 @@ docs/
 │   └── _quickref/      # Homelab quick refs
 ├── ai/                 # LLMs, ML, prompt engineering
 │   └── _quickref/      # AI tool references
-└── resources/          # Learning resources, communities
+├── resources/          # Learning resources, communities
+│
+└── projects/           # Project-specific docs (by company)
+    ├── chowbus/        # Company projects
+    │   └── {repo}/     # README, architecture, setup, decisions/
+    └── personal/       # Personal projects
 ```
 
 ## Content Guidelines
