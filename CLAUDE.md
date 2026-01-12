@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-Personal knowledge base for programming best practices, tools, and technical documentation. Content is bilingual (Chinese primary, English titles/terms).
+Personal knowledge base for programming best practices, tools, and technical documentation. Content is bilingual (English primary, Chinese annotations).
 
 ## Repository Structure
 
@@ -30,7 +30,7 @@ docs/
 ## Content Guidelines
 
 ### Format
-- Bilingual: Chinese (primary) with English terms/titles
+- Bilingual: English (primary) with Chinese annotations
 - Use Markdown consistently
 - `_quickref/` folders for cheatsheets and quick references
 - Main folder level for deep-dive documentation
